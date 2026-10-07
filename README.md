@@ -1,0 +1,1 @@
+# cashback-rate-monitor
